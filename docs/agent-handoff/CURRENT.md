@@ -28,3 +28,12 @@
 - 시각(UTC, 표시용): 2026-08-28T04:28:05.628Z
 - 이번 인계에 포함된 변경:
   - src/hello.txt
+
+---
+## 인계 기록 (자동)
+- generation: 2
+- 기기: second-machine
+- 세션: s-ff6c24c11be4
+- 시각(UTC, 표시용): 2026-08-28T04:38:43.196Z
+- 이번 인계에 포함된 변경:
+  - src/from-second.txt
